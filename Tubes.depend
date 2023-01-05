@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671709226 source:c:\users\binta\documents\semester 3\praktikum\tubes\main.cpp
+	"instagram.h"
+
+1671709504 c:\users\binta\documents\semester 3\praktikum\tubes\instagram.h
+	<iostream>
+
+1671709498 source:c:\users\binta\documents\semester 3\praktikum\tubes\instagram.cpp
+	"instagram.h"
+
