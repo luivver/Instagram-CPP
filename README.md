@@ -31,8 +31,3 @@ Proyek ini mencakup berbagai fungsi, antara lain:
   - int menu(); (Dinar)
   - int menuLogin(string acc); (Verta)
   - int main(); (Dinar & Verta)
- 
-## Cara Menggunakan
-1. Clone repository ini ke komputer Anda.
-2. Buka proyek di IDE C++ favorit Anda.
-3. Kompilasi dan jalankan program untuk mulai menggunakan fitur-fitur yang ada.
